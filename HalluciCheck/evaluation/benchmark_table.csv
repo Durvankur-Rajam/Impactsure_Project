@@ -1,0 +1,4 @@
+strategy,accuracy,hallucination_rate,avg_latency_s,retrieval,examples,reasoning
+Zero-Shot (Baseline),70.0,30.0,10.78,No,No,No
+Chain-of-Thought,75.0,25.0,14.01,No,No,Yes
+RAG (HalluciCheck),35.0,65.0,13.5,Yes,No,No

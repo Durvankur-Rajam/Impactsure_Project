@@ -1,0 +1,2 @@
+total_questions,baseline_accuracy,rag_accuracy,baseline_hallucination,rag_hallucination,hallucination_reduction,accuracy_improvement,avg_baseline_latency,avg_rag_latency
+20,70.0,35.0,30.0,65.0,-116.7,-35.0,10.78,13.5
